@@ -213,6 +213,10 @@ Add to project libraries:
 ## 📸 Screenshots
 
 > 📌 All screenshots are stored in `web/images/` folder in the repository.
+>
+> ### 🔐 Home Page
+![Home Page](https://raw.githubusercontent.com/narayan1483/RuralFarmerPortal/master/web/images/home.png)
+
 
 ### 🔐 Login Page
 ![Login Page](https://raw.githubusercontent.com/narayan1483/RuralFarmerPortal/master/web/images/login.png)
